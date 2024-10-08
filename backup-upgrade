@@ -1,0 +1,39 @@
+Jenkins -- > Smaple pipe -- Thin backup 
+
+FULL -- > /opt 
+
+Remove jenkins 
+
+
+Install jenkins --- 
+
+COpy back -- var/lib/jenkins/
+
+Thin backup plungin 
+restore -- 
+
+---------------
+
+Upgrading Jeninks 
+
+============================================== 
+
+Backup plan --- Thin Backup -- > Are we good backup --ok
+review Relase note --- > Lastest jenkins -- > ok
+Plugin list --- > comp lastet version --> ok 
+Test --- > Sandbox --> lastet -- backup -- > Test -->ok 
+Prepare Downtime --- Test devoplers --- 5 days -- 15 --- 
+Rollback plan -- Upgrade failed 
+Test the region --- Let us know th results --- > good 
+
+
+
+Backup plan --- Thin Backup -- > Are we good backup --ok
+review Relase note --- > Lastest jenkins -- > ok
+Plugin list --- > comp lastet version --> ok 
+Test --- > Sandbox --> lastet -- backup -- > Test -->ok 
+Prepare Downtime --- Test devoplers --- 5 days -- 15 --- 
+Rollback plan -- Upgrade failed 
+Test the region --- Let us know th results --- > good 
+
+-------------------------------------
